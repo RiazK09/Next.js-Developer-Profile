@@ -7,7 +7,7 @@ export default function App({ Component, pageProps }) {
   const router = useRouter();
 
   const handleRouteChange = (url) => {
-    window.gtag("config", "[Tracking ID]", {
+    window.gtag("config", "UA-213806033-1", {
       page_path: url,
     });
   };
