@@ -1,3 +1,4 @@
+import React, { useEffect } from "react";
 import Theme from "../styles/theme";
 
 import { useRouter } from "next/router";
