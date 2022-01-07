@@ -17,11 +17,11 @@ The deployed app can be found [here](https://www.riazkarolia.co.za/)
 
 ## General Information
 
-This is a responsive personal development portfolio which I built using React and Next JS.
+This is a responsive personal development portfolio which I built and customised using React, Next JS and Styled components.
 
 ## Installation
 
-1. On GitHub, navigate to the main page of the repository. Click on the green button "Code". A dropdown menu will be displayed with an option to "Download Zip" - by clicking on this, a zip folder of the react app will be downloaded to your pc.
+1. On GitHub, navigate to the main page of the repository. Click on the green button "Code". A dropdown menu will be displayed with an option to "Download Zip" - by clicking on this, a zip folder of the app will be downloaded to your pc.
 
 2. In order to work with the zip files, they must be extracted first.
    Navigate to the downloaded folder and right-click on it.
@@ -34,14 +34,14 @@ This is a responsive personal development portfolio which I built using React an
 
 6. Once VS Code has opened up, click on the view tab on the navigation panel and then click on 'terminal' - This will in turn open up the terminal in VS Code.
 
-7. Use 'cd' to navigate to the project folder. eg cd react-minesweeper-master
+7. Use 'cd' to navigate to the project folder. eg cd Next.js-Developer-Profile-master
 
 8. Install the nodules folder (node dependencies) by entering 'npm install' into the terminal.
 
-9. Once the node dependencies have been installed, you may enter 'npm start' into the terminal - this will run the app in development mode.
+9. Once the node dependencies have been installed, you may enter 'npm run dev' into the terminal - this will run the app in development mode.
    Open [http://localhost:3000](http://localhost:3000) to view the app within the browser.
 
-10. The React App will now run on your local machine.
+10. The Next JS App will now run on your local machine.
 
 ## Deployment
 
