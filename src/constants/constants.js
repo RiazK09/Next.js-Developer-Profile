@@ -67,7 +67,7 @@ export const TimeLineData = [
     institution: "University of Free State - Business School",
   },
   {
-    year: 2021,
+    year: 2022,
     text: "Full Stack Web Development",
     institution: "Hyperion Development",
   },
