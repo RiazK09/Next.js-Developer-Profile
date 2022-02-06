@@ -1,5 +1,15 @@
 export const deployedProjects = [
   {
+    title: "Pizza Delivery App",
+    description:
+      "This is a full-stack CRUD web application built using Node, Express, React and MongoDB (the MERN Stack).",
+    image: "/images/PizzaApp.png",
+    tags: ["MERN"],
+    source: "https://github.com/RiazK09/MERN-Pizza-App",
+    visit: "https://pizza-app-mern.herokuapp.com/",
+    id: 0,
+  },
+  {
     title: "iTunes Search App",
     description:
       "This is a full-stack web application that interfaces with the iTunes Search API. It was created using both React (frontend) and Express (backend). The backend is responsible for handling the interaction with the third-party API (i.e the iTunes Search API). This application allows users to search for content within the iTunes store. In addition to this, users are be able to add/remove items from their list of favourites.",
@@ -7,7 +17,7 @@ export const deployedProjects = [
     tags: ["Express", "React", "Node"],
     source: "https://github.com/RiazK09/iTunesSearchApp",
     visit: "https://itunes-search-app-riaz.herokuapp.com/",
-    id: 0,
+    id: 1,
   },
   {
     title: "React Minesweeper Game",
@@ -16,7 +26,7 @@ export const deployedProjects = [
     tags: ["React", "JavaScript"],
     source: "https://github.com/RiazK09/react-minesweeper",
     visit: "https://sheltered-earth-36448.herokuapp.com/",
-    id: 1,
+    id: 2,
   },
   {
     title: "Personal Webpage",
@@ -25,7 +35,7 @@ export const deployedProjects = [
     tags: ["CSS", "HTML"],
     source: "https://github.com/RiazK09/Riaz_Karolia_resume",
     visit: "https://riazk09.github.io/Riaz_Karolia_resume/",
-    id: 2,
+    id: 3,
   },
 ];
 
