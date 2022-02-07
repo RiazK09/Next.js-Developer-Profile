@@ -37,6 +37,15 @@ export const deployedProjects = [
     visit: "https://riazk09.github.io/Riaz_Karolia_resume/",
     id: 3,
   },
+  {
+    title: "Progressive Weather Web App",
+    description: "A Weather Application created using React.js and the Open Weather API.",
+    image: "/images/Desktop.png",
+    tags: ["React", "JavaScript"],
+    source: "https://github.com/RiazK09/pwa_react_weather_app",
+    visit: "https://heuristic-blackwell-1dc524.netlify.app/",
+    id: 4,
+  },
 ];
 
 export const projects = [
